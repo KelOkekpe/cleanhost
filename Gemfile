@@ -16,7 +16,7 @@ gem "simple_calendar", "~> 2.0"
 #api
 gem 'twilio-ruby'
 gem 'google-api-client', require: 'google/apis/calendar_v3'
-gem 'httparty', '~> 0.13.7'
+gem 'httparty', '~> 0.21.0'
 gem 'figaro'
 
 #full-calendar js
